@@ -1,1 +1,4 @@
 # shfmt
+```
+shfmt -l -w .
+```
